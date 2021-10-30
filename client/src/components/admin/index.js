@@ -3,7 +3,7 @@ import { Switch, Route } from 'react-router-dom'
 import Sidebar from './sidebar/Sidebar'
 import Dashboard from './dashboard/dashboard'
 import CulterPage from './culter'
-import PackingPage from './packing'
+import PackingPage from './packing/packing'
 import StoragePage from './storage'
 import NotFound from '../utils/NotFound/NotFound'
 
